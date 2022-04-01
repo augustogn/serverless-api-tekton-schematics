@@ -2,4 +2,4 @@
 
 This repository contains the code for the [Deploy a serverless API with Tekton and Terraform tutorial](https://developer.ibm.com/tutorials/deploy-a-serverless-api-with-tekton-and-terraform/) on IBM Developer.
 
-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
+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
