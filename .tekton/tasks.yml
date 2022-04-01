@@ -81,7 +81,7 @@ spec:
             export CHANGED_FOLDER=true
           else
             echo "Folder not changed"
-            export CHANGED_FOLDER=true
+            export CHANGED_FOLDER=false
           fi
             
           printf $CHANGED_FOLDER | tee $(results.is_changed.path)
